@@ -2,7 +2,8 @@
 Probabilities for short-handed Texas Hold'em poker games.
 
 **Screenshot**    
-![image](https://github.com/user-attachments/assets/cff0a883-c587-4c91-bb75-990a3e8a1461)
+![image](https://github.com/user-attachments/assets/d0723966-dc48-4c20-820f-666ad1823d6b)
+
 
 
 
